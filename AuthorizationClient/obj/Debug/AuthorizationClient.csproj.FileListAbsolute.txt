@@ -1,0 +1,13 @@
+D:\Coding\C#\AuthorizationClient\AuthorizationClient\bin\Debug\AuthorizationClient.exe.config
+D:\Coding\C#\AuthorizationClient\AuthorizationClient\bin\Debug\AuthorizationClient.exe
+D:\Coding\C#\AuthorizationClient\AuthorizationClient\bin\Debug\AuthorizationClient.pdb
+D:\Coding\C#\AuthorizationClient\AuthorizationClient\obj\Debug\AuthorizationClient.csprojAssemblyReference.cache
+D:\Coding\C#\AuthorizationClient\AuthorizationClient\obj\Debug\AuthorizationClient.Properties.Resources.resources
+D:\Coding\C#\AuthorizationClient\AuthorizationClient\obj\Debug\AuthorizationClient.csproj.GenerateResource.cache
+D:\Coding\C#\AuthorizationClient\AuthorizationClient\obj\Debug\AuthorizationClient.csproj.CoreCompileInputs.cache
+D:\Coding\C#\AuthorizationClient\AuthorizationClient\obj\Debug\AuthorizationClient.exe
+D:\Coding\C#\AuthorizationClient\AuthorizationClient\obj\Debug\AuthorizationClient.pdb
+D:\Coding\C#\AuthorizationClient\AuthorizationClient\bin\Debug\Authorization.dll
+D:\Coding\C#\AuthorizationClient\AuthorizationClient\bin\Debug\Authorization.pdb
+D:\Coding\C#\AuthorizationClient\AuthorizationClient\obj\Debug\AuthClient.Main.resources
+D:\Coding\C#\AuthorizationClient\AuthorizationClient\obj\Debug\AuthorizationClient.csproj.CopyComplete

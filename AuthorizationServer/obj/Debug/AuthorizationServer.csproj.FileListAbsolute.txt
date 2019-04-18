@@ -1,0 +1,13 @@
+D:\Coding\C#\AuthorizationServer\AuthorizationServer\bin\Debug\AuthorizationServer.exe.config
+D:\Coding\C#\AuthorizationServer\AuthorizationServer\bin\Debug\AuthorizationServer.exe
+D:\Coding\C#\AuthorizationServer\AuthorizationServer\bin\Debug\AuthorizationServer.pdb
+D:\Coding\C#\AuthorizationServer\AuthorizationServer\obj\Debug\AuthorizationServer.csprojAssemblyReference.cache
+D:\Coding\C#\AuthorizationServer\AuthorizationServer\obj\Debug\AuthorizationServer.Properties.Resources.resources
+D:\Coding\C#\AuthorizationServer\AuthorizationServer\obj\Debug\AuthorizationServer.csproj.GenerateResource.cache
+D:\Coding\C#\AuthorizationServer\AuthorizationServer\obj\Debug\AuthorizationServer.csproj.CoreCompileInputs.cache
+D:\Coding\C#\AuthorizationServer\AuthorizationServer\obj\Debug\AuthorizationServer.exe
+D:\Coding\C#\AuthorizationServer\AuthorizationServer\obj\Debug\AuthorizationServer.pdb
+D:\Coding\C#\AuthorizationServer\AuthorizationServer\bin\Debug\Authorization.dll
+D:\Coding\C#\AuthorizationServer\AuthorizationServer\bin\Debug\Authorization.pdb
+D:\Coding\C#\AuthorizationServer\AuthorizationServer\obj\Debug\AuthorizationServer.csproj.CopyComplete
+D:\Coding\C#\AuthorizationServer\AuthorizationServer\obj\Debug\AuthServer.Main.resources
