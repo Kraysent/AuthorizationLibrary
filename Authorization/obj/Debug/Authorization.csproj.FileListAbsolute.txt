@@ -1,0 +1,6 @@
+D:\Coding\C#\AuthorizationClient\Authorization\bin\Debug\Authorization.dll
+D:\Coding\C#\AuthorizationClient\Authorization\bin\Debug\Authorization.pdb
+D:\Coding\C#\AuthorizationClient\Authorization\obj\Debug\Authorization.csproj.CoreCompileInputs.cache
+D:\Coding\C#\AuthorizationClient\Authorization\obj\Debug\Authorization.dll
+D:\Coding\C#\AuthorizationClient\Authorization\obj\Debug\Authorization.pdb
+D:\Coding\C#\AuthorizationClient\Authorization\obj\Debug\Authorization.csprojAssemblyReference.cache
